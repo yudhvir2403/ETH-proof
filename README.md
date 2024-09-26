@@ -68,12 +68,12 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone hhttps://github.com/yudhvir2403/NFT-s
+    git clone hhttps://github.com/yudhvir2403/NFT-s/javascript.sol
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd MyToken
+    cd javascript.sol
     ```
 
 3. **Deploy the contract**:
@@ -109,7 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me at dhruv.sharma362@gmail.com.
+If you have any questions or suggestions, feel free to open an issue or contact me at rajput850singh@gmail.com
 
 ---
 
