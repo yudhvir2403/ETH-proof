@@ -68,7 +68,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone hhttps://github.com/yudhvir2403/NFT-s/javascript.sol
+    git clone hhttps://github.com/yudhvir2403/ETH-proof/javascript.sol
     ```
 
 2. **Navigate to the project directory**:
