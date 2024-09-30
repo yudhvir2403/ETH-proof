@@ -64,8 +64,9 @@ If you need further assistance, consult the Remix IDE's console logs for error m
 ## Authors
 
 - Yudhvir2403
-- GitHub: [@yudhvir2403](https://github.com/yudhvir2403)
+- [@yudhvir2403](https://github.com/yudhvir2403)
 
 ## License
 
 This project is licensed under the Yudhvir License - see the LICENSE file for details
+https://github.com/yudhvir2403/ETH-proof/blob/main/LICENSE
