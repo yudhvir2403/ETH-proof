@@ -68,4 +68,4 @@ If you need further assistance, consult the Remix IDE's console logs for error m
 
 ## License
 
-This project is licensed under the Yudhvir License - see the LICENSE.md file for details
+This project is licensed under the Yudhvir License - see the LICENSE file for details
